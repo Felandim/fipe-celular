@@ -1,0 +1,722 @@
+date,slug,model,storage,condition,price
+2026-10-15,iphone-11-128gb,iPhone 11,128GB,Bom,1479.0
+2026-10-15,iphone-11-128gb,iPhone 11,128GB,Muito Bom,1579.0
+2026-10-15,iphone-11-128gb,iPhone 11,128GB,Excelente,1659.0
+2026-10-15,iphone-11-128gb,iPhone 11,128GB,Bom,1449.0
+2026-10-15,iphone-11-128gb,iPhone 11,128GB,Muito Bom,1549.0
+2026-10-15,iphone-11-128gb,iPhone 11,128GB,Muito Bom,1579.0
+2026-10-15,iphone-11-128gb,iPhone 11,128GB,Bom,1479.0
+2026-10-15,iphone-11-128gb,iPhone 11,128GB,Muito Bom,1579.0
+2026-10-15,iphone-11-128gb,iPhone 11,128GB,Bom,1479.0
+2026-10-15,iphone-11-128gb,iPhone 11,128GB,Muito Bom,1549.0
+2026-10-15,iphone-11-128gb,iPhone 11,128GB,Outlet,1179.0
+2026-10-15,iphone-11-256gb,iPhone 11,256GB,Bom,1659.0
+2026-10-15,iphone-11-256gb,iPhone 11,256GB,Muito Bom,1769.0
+2026-10-15,iphone-11-256gb,iPhone 11,256GB,Excelente,1859.0
+2026-10-15,iphone-11-256gb,iPhone 11,256GB,Bom,1659.0
+2026-10-15,iphone-11-256gb,iPhone 11,256GB,Excelente,1859.0
+2026-10-15,iphone-11-256gb,iPhone 11,256GB,Muito Bom,1769.0
+2026-10-15,iphone-11-256gb,iPhone 11,256GB,Excelente,1859.0
+2026-10-15,iphone-11-256gb,iPhone 11,256GB,Muito Bom,1769.0
+2026-10-15,iphone-11-256gb,iPhone 11,256GB,Bom,1659.0
+2026-10-15,iphone-11-256gb,iPhone 11,256GB,Muito Bom,1769.0
+2026-10-15,iphone-11-256gb,iPhone 11,256GB,Excelente,1859.0
+2026-10-15,iphone-11-64gb,iPhone 11,64GB,Muito Bom,1239.0
+2026-10-15,iphone-11-64gb,iPhone 11,64GB,Muito Bom,1279.0
+2026-10-15,iphone-11-64gb,iPhone 11,64GB,Excelente,1349.0
+2026-10-15,iphone-11-64gb,iPhone 11,64GB,Muito Bom,1189.0
+2026-10-15,iphone-11-64gb,iPhone 11,64GB,Excelente,1249.0
+2026-10-15,iphone-11-pro-256gb,iPhone 11 Pro,256GB,Muito Bom,1979.0
+2026-10-15,iphone-11-pro-256gb,iPhone 11 Pro,256GB,Excelente,2089.0
+2026-10-15,iphone-11-pro-256gb,iPhone 11 Pro,256GB,Muito Bom,1979.0
+2026-10-15,iphone-11-pro-256gb,iPhone 11 Pro,256GB,Excelente,2089.0
+2026-10-15,iphone-11-pro-512gb,iPhone 11 Pro,512GB,Muito Bom,2169.0
+2026-10-15,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Bom,1569.0
+2026-10-15,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Muito Bom,1669.0
+2026-10-15,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Excelente,1759.0
+2026-10-15,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Bom,1569.0
+2026-10-15,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Muito Bom,1669.0
+2026-10-15,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Bom,1569.0
+2026-10-15,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Muito Bom,1669.0
+2026-10-15,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Excelente,1759.0
+2026-10-15,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Excelente,1759.0
+2026-10-15,iphone-11-pro-max-256gb,iPhone 11 Pro Max,256GB,Muito Bom,2039.0
+2026-10-15,iphone-11-pro-max-512gb,iPhone 11 Pro Max,512GB,Bom,2359.0
+2026-10-15,iphone-11-pro-max-64gb,iPhone 11 Pro Max,64GB,Muito Bom,1849.0
+2026-10-15,iphone-11-pro-max-64gb,iPhone 11 Pro Max,64GB,Muito Bom,1849.0
+2026-10-15,iphone-11-pro-max-64gb,iPhone 11 Pro Max,64GB,Excelente,1949.0
+2026-10-15,iphone-11-pro-max-64gb,iPhone 11 Pro Max,64GB,Bom,1739.0
+2026-10-15,iphone-11-pro-max-64gb,iPhone 11 Pro Max,64GB,Muito Bom,1849.0
+2026-10-15,iphone-11-pro-max-64gb,iPhone 11 Pro Max,64GB,Excelente,1949.0
+2026-10-15,iphone-11-pro-max-64gb,iPhone 11 Pro Max,64GB,Excelente,1949.0
+2026-10-15,iphone-12-128gb,iPhone 12,128GB,Excelente,1829.0
+2026-10-15,iphone-12-128gb,iPhone 12,128GB,Bom,1629.0
+2026-10-15,iphone-12-256gb,iPhone 12,256GB,Muito Bom,2079.0
+2026-10-15,iphone-12-64gb,iPhone 12,64GB,Bom,1469.0
+2026-10-15,iphone-12-64gb,iPhone 12,64GB,Muito Bom,1559.0
+2026-10-15,iphone-12-64gb,iPhone 12,64GB,Excelente,1639.0
+2026-10-15,iphone-12-64gb,iPhone 12,64GB,Bom,1539.0
+2026-10-15,iphone-12-64gb,iPhone 12,64GB,Muito Bom,1639.0
+2026-10-15,iphone-12-64gb,iPhone 12,64GB,Excelente,1729.0
+2026-10-15,iphone-12-64gb,iPhone 12,64GB,Bom,1469.0
+2026-10-15,iphone-12-64gb,iPhone 12,64GB,Muito Bom,1559.0
+2026-10-15,iphone-12-64gb,iPhone 12,64GB,Excelente,1639.0
+2026-10-15,iphone-12-64gb,iPhone 12,64GB,Bom,1539.0
+2026-10-15,iphone-12-64gb,iPhone 12,64GB,Muito Bom,1639.0
+2026-10-15,iphone-12-64gb,iPhone 12,64GB,Excelente,1729.0
+2026-10-15,iphone-12-64gb,iPhone 12,64GB,Muito Bom,1639.0
+2026-10-15,iphone-12-64gb,iPhone 12,64GB,Excelente,1729.0
+2026-10-15,iphone-12-64gb,iPhone 12,64GB,Muito Bom,1639.0
+2026-10-15,iphone-12-mini-128gb,iPhone 12 mini,128GB,Bom,1559.0
+2026-10-15,iphone-12-mini-128gb,iPhone 12 mini,128GB,Muito Bom,1659.0
+2026-10-15,iphone-12-mini-128gb,iPhone 12 mini,128GB,Muito Bom,1659.0
+2026-10-15,iphone-12-mini-128gb,iPhone 12 mini,128GB,Excelente,1749.0
+2026-10-15,iphone-12-mini-256gb,iPhone 12 mini,256GB,Excelente,2169.0
+2026-10-15,iphone-12-mini-256gb,iPhone 12 mini,256GB,Muito Bom,2059.0
+2026-10-15,iphone-12-mini-256gb,iPhone 12 mini,256GB,Bom,1939.0
+2026-10-15,iphone-12-mini-256gb,iPhone 12 mini,256GB,Excelente,2169.0
+2026-10-15,iphone-12-mini-256gb,iPhone 12 mini,256GB,Bom,1939.0
+2026-10-15,iphone-12-mini-64gb,iPhone 12 mini,64GB,Muito Bom,1599.0
+2026-10-15,iphone-12-mini-64gb,iPhone 12 mini,64GB,Bom,1499.0
+2026-10-15,iphone-12-mini-64gb,iPhone 12 mini,64GB,Muito Bom,1599.0
+2026-10-15,iphone-12-mini-64gb,iPhone 12 mini,64GB,Excelente,1679.0
+2026-10-15,iphone-12-mini-64gb,iPhone 12 mini,64GB,Bom,1499.0
+2026-10-15,iphone-12-mini-64gb,iPhone 12 mini,64GB,Excelente,1769.0
+2026-10-15,iphone-12-mini-64gb,iPhone 12 mini,64GB,Muito Bom,1679.0
+2026-10-15,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Bom,2249.0
+2026-10-15,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Excelente,2519.0
+2026-10-15,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Muito Bom,2389.0
+2026-10-15,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Bom,2249.0
+2026-10-15,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Excelente,2519.0
+2026-10-15,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Muito Bom,2389.0
+2026-10-15,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Bom,2249.0
+2026-10-15,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Excelente,2519.0
+2026-10-15,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Muito Bom,2389.0
+2026-10-15,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Muito Bom,2389.0
+2026-10-15,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Excelente,2689.0
+2026-10-15,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Muito Bom,2549.0
+2026-10-15,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Bom,2399.0
+2026-10-15,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Muito Bom,2549.0
+2026-10-15,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Bom,2399.0
+2026-10-15,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Excelente,2689.0
+2026-10-15,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Muito Bom,2549.0
+2026-10-15,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Excelente,2689.0
+2026-10-15,iphone-12-pro-512gb,iPhone 12 Pro,512GB,Muito Bom,2979.0
+2026-10-15,iphone-12-pro-512gb,iPhone 12 Pro,512GB,Bom,2799.0
+2026-10-15,iphone-12-pro-512gb,iPhone 12 Pro,512GB,Muito Bom,2979.0
+2026-10-15,iphone-12-pro-512gb,iPhone 12 Pro,512GB,Excelente,3139.0
+2026-10-15,iphone-12-pro-512gb,iPhone 12 Pro,512GB,Muito Bom,2979.0
+2026-10-15,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Muito Bom,2659.0
+2026-10-15,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Excelente,2799.0
+2026-10-15,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Bom,2499.0
+2026-10-15,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Muito Bom,2659.0
+2026-10-15,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Excelente,2799.0
+2026-10-15,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Muito Bom,2659.0
+2026-10-15,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Excelente,2799.0
+2026-10-15,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Bom,2499.0
+2026-10-15,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Muito Bom,2659.0
+2026-10-15,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Excelente,2799.0
+2026-10-15,iphone-12-pro-max-256gb,iPhone 12 Pro Max,256GB,Muito Bom,2769.0
+2026-10-15,iphone-12-pro-max-256gb,iPhone 12 Pro Max,256GB,Muito Bom,2769.0
+2026-10-15,iphone-12-pro-max-256gb,iPhone 12 Pro Max,256GB,Excelente,2919.0
+2026-10-15,iphone-12-pro-max-256gb,iPhone 12 Pro Max,256GB,Bom,2599.0
+2026-10-15,iphone-12-pro-max-256gb,iPhone 12 Pro Max,256GB,Muito Bom,2769.0
+2026-10-15,iphone-12-pro-max-256gb,iPhone 12 Pro Max,256GB,Excelente,2919.0
+2026-10-15,iphone-12-pro-max-512gb,iPhone 12 Pro Max,512GB,Muito Bom,3209.0
+2026-10-15,iphone-13-128gb,iPhone 13,128GB,Excelente,2449.0
+2026-10-15,iphone-13-128gb,iPhone 13,128GB,Bom,2189.0
+2026-10-15,iphone-13-128gb,iPhone 13,128GB,Excelente,2449.0
+2026-10-15,iphone-13-128gb,iPhone 13,128GB,Muito Bom,2329.0
+2026-10-15,iphone-13-128gb,iPhone 13,128GB,Bom,2189.0
+2026-10-15,iphone-13-128gb,iPhone 13,128GB,Excelente,2449.0
+2026-10-15,iphone-13-128gb,iPhone 13,128GB,Muito Bom,2329.0
+2026-10-15,iphone-13-128gb,iPhone 13,128GB,Outlet,1749.0
+2026-10-15,iphone-13-128gb,iPhone 13,128GB,Bom,2189.0
+2026-10-15,iphone-13-128gb,iPhone 13,128GB,Muito Bom,2329.0
+2026-10-15,iphone-13-128gb,iPhone 13,128GB,Excelente,2449.0
+2026-10-15,iphone-13-128gb,iPhone 13,128GB,Muito Bom,2329.0
+2026-10-15,iphone-13-128gb,iPhone 13,128GB,Excelente,2449.0
+2026-10-15,iphone-13-128gb,iPhone 13,128GB,Muito Bom,2329.0
+2026-10-15,iphone-13-128gb,iPhone 13,128GB,Outlet,1749.0
+2026-10-15,iphone-13-256gb,iPhone 13,256GB,Excelente,2739.0
+2026-10-15,iphone-13-256gb,iPhone 13,256GB,Muito Bom,2599.0
+2026-10-15,iphone-13-256gb,iPhone 13,256GB,Excelente,2739.0
+2026-10-15,iphone-13-256gb,iPhone 13,256GB,Bom,2439.0
+2026-10-15,iphone-13-256gb,iPhone 13,256GB,Excelente,2739.0
+2026-10-15,iphone-13-256gb,iPhone 13,256GB,Muito Bom,2599.0
+2026-10-15,iphone-13-256gb,iPhone 13,256GB,Muito Bom,2599.0
+2026-10-15,iphone-13-512gb,iPhone 13,512GB,Excelente,3099.0
+2026-10-15,iphone-13-512gb,iPhone 13,512GB,Muito Bom,2939.0
+2026-10-15,iphone-13-mini-256gb,iPhone 13 mini,256GB,Muito Bom,2549.0
+2026-10-15,iphone-13-mini-512gb,iPhone 13 mini,512GB,Bom,2729.0
+2026-10-15,iphone-13-pro-128gb,iPhone 13 Pro,128GB,Excelente,2989.0
+2026-10-15,iphone-13-pro-128gb,iPhone 13 Pro,128GB,Muito Bom,2839.0
+2026-10-15,iphone-13-pro-128gb,iPhone 13 Pro,128GB,Excelente,2989.0
+2026-10-15,iphone-13-pro-128gb,iPhone 13 Pro,128GB,Excelente,2989.0
+2026-10-15,iphone-13-pro-128gb,iPhone 13 Pro,128GB,Excelente,2989.0
+2026-10-15,iphone-13-pro-128gb,iPhone 13 Pro,128GB,Muito Bom,2839.0
+2026-10-15,iphone-13-pro-256gb,iPhone 13 Pro,256GB,Excelente,3309.0
+2026-10-15,iphone-13-pro-256gb,iPhone 13 Pro,256GB,Bom,2949.0
+2026-10-15,iphone-13-pro-512gb,iPhone 13 Pro,512GB,Bom,3369.0
+2026-10-15,iphone-13-pro-512gb,iPhone 13 Pro,512GB,Excelente,3779.0
+2026-10-15,iphone-13-pro-512gb,iPhone 13 Pro,512GB,Muito Bom,3589.0
+2026-10-15,iphone-13-pro-512gb,iPhone 13 Pro,512GB,Bom,3369.0
+2026-10-15,iphone-13-pro-512gb,iPhone 13 Pro,512GB,Excelente,3779.0
+2026-10-15,iphone-13-pro-512gb,iPhone 13 Pro,512GB,Excelente,3779.0
+2026-10-16,iphone-11-128gb,iPhone 11,128GB,Bom,1479.0
+2026-10-16,iphone-11-128gb,iPhone 11,128GB,Muito Bom,1579.0
+2026-10-16,iphone-11-128gb,iPhone 11,128GB,Excelente,1659.0
+2026-10-16,iphone-11-128gb,iPhone 11,128GB,Bom,1449.0
+2026-10-16,iphone-11-128gb,iPhone 11,128GB,Muito Bom,1549.0
+2026-10-16,iphone-11-128gb,iPhone 11,128GB,Muito Bom,1579.0
+2026-10-16,iphone-11-128gb,iPhone 11,128GB,Bom,1479.0
+2026-10-16,iphone-11-128gb,iPhone 11,128GB,Muito Bom,1579.0
+2026-10-16,iphone-11-128gb,iPhone 11,128GB,Bom,1479.0
+2026-10-16,iphone-11-128gb,iPhone 11,128GB,Muito Bom,1549.0
+2026-10-16,iphone-11-128gb,iPhone 11,128GB,Outlet,1179.0
+2026-10-16,iphone-11-256gb,iPhone 11,256GB,Bom,1659.0
+2026-10-16,iphone-11-256gb,iPhone 11,256GB,Muito Bom,1769.0
+2026-10-16,iphone-11-256gb,iPhone 11,256GB,Excelente,1859.0
+2026-10-16,iphone-11-256gb,iPhone 11,256GB,Bom,1659.0
+2026-10-16,iphone-11-256gb,iPhone 11,256GB,Excelente,1859.0
+2026-10-16,iphone-11-256gb,iPhone 11,256GB,Muito Bom,1769.0
+2026-10-16,iphone-11-256gb,iPhone 11,256GB,Excelente,1859.0
+2026-10-16,iphone-11-256gb,iPhone 11,256GB,Muito Bom,1769.0
+2026-10-16,iphone-11-256gb,iPhone 11,256GB,Bom,1659.0
+2026-10-16,iphone-11-256gb,iPhone 11,256GB,Muito Bom,1769.0
+2026-10-16,iphone-11-256gb,iPhone 11,256GB,Excelente,1859.0
+2026-10-16,iphone-11-64gb,iPhone 11,64GB,Muito Bom,1239.0
+2026-10-16,iphone-11-64gb,iPhone 11,64GB,Muito Bom,1279.0
+2026-10-16,iphone-11-64gb,iPhone 11,64GB,Excelente,1349.0
+2026-10-16,iphone-11-64gb,iPhone 11,64GB,Muito Bom,1189.0
+2026-10-16,iphone-11-64gb,iPhone 11,64GB,Excelente,1249.0
+2026-10-16,iphone-11-pro-256gb,iPhone 11 Pro,256GB,Muito Bom,1979.0
+2026-10-16,iphone-11-pro-256gb,iPhone 11 Pro,256GB,Excelente,2089.0
+2026-10-16,iphone-11-pro-256gb,iPhone 11 Pro,256GB,Muito Bom,1979.0
+2026-10-16,iphone-11-pro-256gb,iPhone 11 Pro,256GB,Excelente,2089.0
+2026-10-16,iphone-11-pro-512gb,iPhone 11 Pro,512GB,Muito Bom,2169.0
+2026-10-16,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Bom,1569.0
+2026-10-16,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Muito Bom,1669.0
+2026-10-16,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Excelente,1759.0
+2026-10-16,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Bom,1569.0
+2026-10-16,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Muito Bom,1669.0
+2026-10-16,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Bom,1569.0
+2026-10-16,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Muito Bom,1669.0
+2026-10-16,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Excelente,1759.0
+2026-10-16,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Excelente,1759.0
+2026-10-16,iphone-11-pro-max-256gb,iPhone 11 Pro Max,256GB,Muito Bom,2039.0
+2026-10-16,iphone-11-pro-max-512gb,iPhone 11 Pro Max,512GB,Bom,2359.0
+2026-10-16,iphone-11-pro-max-64gb,iPhone 11 Pro Max,64GB,Muito Bom,1849.0
+2026-10-16,iphone-11-pro-max-64gb,iPhone 11 Pro Max,64GB,Muito Bom,1849.0
+2026-10-16,iphone-11-pro-max-64gb,iPhone 11 Pro Max,64GB,Excelente,1949.0
+2026-10-16,iphone-11-pro-max-64gb,iPhone 11 Pro Max,64GB,Bom,1739.0
+2026-10-16,iphone-11-pro-max-64gb,iPhone 11 Pro Max,64GB,Muito Bom,1849.0
+2026-10-16,iphone-11-pro-max-64gb,iPhone 11 Pro Max,64GB,Excelente,1949.0
+2026-10-16,iphone-11-pro-max-64gb,iPhone 11 Pro Max,64GB,Excelente,1949.0
+2026-10-16,iphone-12-128gb,iPhone 12,128GB,Excelente,1829.0
+2026-10-16,iphone-12-128gb,iPhone 12,128GB,Bom,1629.0
+2026-10-16,iphone-12-256gb,iPhone 12,256GB,Muito Bom,2079.0
+2026-10-16,iphone-12-64gb,iPhone 12,64GB,Bom,1469.0
+2026-10-16,iphone-12-64gb,iPhone 12,64GB,Muito Bom,1559.0
+2026-10-16,iphone-12-64gb,iPhone 12,64GB,Excelente,1639.0
+2026-10-16,iphone-12-64gb,iPhone 12,64GB,Bom,1539.0
+2026-10-16,iphone-12-64gb,iPhone 12,64GB,Muito Bom,1639.0
+2026-10-16,iphone-12-64gb,iPhone 12,64GB,Excelente,1729.0
+2026-10-16,iphone-12-64gb,iPhone 12,64GB,Bom,1469.0
+2026-10-16,iphone-12-64gb,iPhone 12,64GB,Muito Bom,1559.0
+2026-10-16,iphone-12-64gb,iPhone 12,64GB,Excelente,1639.0
+2026-10-16,iphone-12-64gb,iPhone 12,64GB,Bom,1539.0
+2026-10-16,iphone-12-64gb,iPhone 12,64GB,Muito Bom,1639.0
+2026-10-16,iphone-12-64gb,iPhone 12,64GB,Excelente,1729.0
+2026-10-16,iphone-12-64gb,iPhone 12,64GB,Muito Bom,1639.0
+2026-10-16,iphone-12-64gb,iPhone 12,64GB,Excelente,1729.0
+2026-10-16,iphone-12-64gb,iPhone 12,64GB,Muito Bom,1639.0
+2026-10-16,iphone-12-mini-128gb,iPhone 12 mini,128GB,Bom,1559.0
+2026-10-16,iphone-12-mini-128gb,iPhone 12 mini,128GB,Muito Bom,1659.0
+2026-10-16,iphone-12-mini-128gb,iPhone 12 mini,128GB,Muito Bom,1659.0
+2026-10-16,iphone-12-mini-128gb,iPhone 12 mini,128GB,Excelente,1749.0
+2026-10-16,iphone-12-mini-256gb,iPhone 12 mini,256GB,Excelente,2169.0
+2026-10-16,iphone-12-mini-256gb,iPhone 12 mini,256GB,Muito Bom,2059.0
+2026-10-16,iphone-12-mini-256gb,iPhone 12 mini,256GB,Bom,1939.0
+2026-10-16,iphone-12-mini-256gb,iPhone 12 mini,256GB,Excelente,2169.0
+2026-10-16,iphone-12-mini-256gb,iPhone 12 mini,256GB,Bom,1939.0
+2026-10-16,iphone-12-mini-64gb,iPhone 12 mini,64GB,Muito Bom,1599.0
+2026-10-16,iphone-12-mini-64gb,iPhone 12 mini,64GB,Bom,1499.0
+2026-10-16,iphone-12-mini-64gb,iPhone 12 mini,64GB,Muito Bom,1599.0
+2026-10-16,iphone-12-mini-64gb,iPhone 12 mini,64GB,Excelente,1679.0
+2026-10-16,iphone-12-mini-64gb,iPhone 12 mini,64GB,Bom,1499.0
+2026-10-16,iphone-12-mini-64gb,iPhone 12 mini,64GB,Excelente,1769.0
+2026-10-16,iphone-12-mini-64gb,iPhone 12 mini,64GB,Muito Bom,1679.0
+2026-10-16,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Bom,2249.0
+2026-10-16,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Excelente,2519.0
+2026-10-16,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Muito Bom,2389.0
+2026-10-16,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Bom,2249.0
+2026-10-16,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Excelente,2519.0
+2026-10-16,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Muito Bom,2389.0
+2026-10-16,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Bom,2249.0
+2026-10-16,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Excelente,2519.0
+2026-10-16,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Muito Bom,2389.0
+2026-10-16,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Muito Bom,2389.0
+2026-10-16,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Excelente,2689.0
+2026-10-16,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Muito Bom,2549.0
+2026-10-16,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Bom,2399.0
+2026-10-16,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Muito Bom,2549.0
+2026-10-16,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Bom,2399.0
+2026-10-16,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Excelente,2689.0
+2026-10-16,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Muito Bom,2549.0
+2026-10-16,iphone-12-pro-256gb,iPhone 12 Pro,256GB,Excelente,2689.0
+2026-10-16,iphone-12-pro-512gb,iPhone 12 Pro,512GB,Muito Bom,2979.0
+2026-10-16,iphone-12-pro-512gb,iPhone 12 Pro,512GB,Bom,2799.0
+2026-10-16,iphone-12-pro-512gb,iPhone 12 Pro,512GB,Muito Bom,2979.0
+2026-10-16,iphone-12-pro-512gb,iPhone 12 Pro,512GB,Excelente,3139.0
+2026-10-16,iphone-12-pro-512gb,iPhone 12 Pro,512GB,Muito Bom,2979.0
+2026-10-16,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Muito Bom,2659.0
+2026-10-16,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Excelente,2799.0
+2026-10-16,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Bom,2499.0
+2026-10-16,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Muito Bom,2659.0
+2026-10-16,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Excelente,2799.0
+2026-10-16,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Muito Bom,2659.0
+2026-10-16,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Excelente,2799.0
+2026-10-16,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Bom,2499.0
+2026-10-16,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Muito Bom,2659.0
+2026-10-16,iphone-12-pro-max-128gb,iPhone 12 Pro Max,128GB,Excelente,2799.0
+2026-10-16,iphone-12-pro-max-256gb,iPhone 12 Pro Max,256GB,Muito Bom,2769.0
+2026-10-16,iphone-12-pro-max-256gb,iPhone 12 Pro Max,256GB,Muito Bom,2769.0
+2026-10-16,iphone-12-pro-max-256gb,iPhone 12 Pro Max,256GB,Excelente,2919.0
+2026-10-16,iphone-12-pro-max-256gb,iPhone 12 Pro Max,256GB,Bom,2599.0
+2026-10-16,iphone-12-pro-max-256gb,iPhone 12 Pro Max,256GB,Muito Bom,2769.0
+2026-10-16,iphone-12-pro-max-256gb,iPhone 12 Pro Max,256GB,Excelente,2919.0
+2026-10-16,iphone-12-pro-max-512gb,iPhone 12 Pro Max,512GB,Muito Bom,3209.0
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Excelente,2449.0
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Bom,2189.0
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Excelente,2449.0
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Muito Bom,2329.0
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Bom,2189.0
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Excelente,2449.0
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Muito Bom,2329.0
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Outlet,1749.0
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Bom,2189.0
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Muito Bom,2329.0
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Excelente,2449.0
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Muito Bom,2329.0
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Excelente,2449.0
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Muito Bom,2329.0
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Outlet,1749.0
+2026-10-16,iphone-13-256gb,iPhone 13,256GB,Excelente,2739.0
+2026-10-16,iphone-13-256gb,iPhone 13,256GB,Muito Bom,2599.0
+2026-10-16,iphone-13-256gb,iPhone 13,256GB,Excelente,2739.0
+2026-10-16,iphone-13-256gb,iPhone 13,256GB,Bom,2439.0
+2026-10-16,iphone-13-256gb,iPhone 13,256GB,Excelente,2739.0
+2026-10-16,iphone-13-256gb,iPhone 13,256GB,Muito Bom,2599.0
+2026-10-16,iphone-13-256gb,iPhone 13,256GB,Muito Bom,2599.0
+2026-10-16,iphone-13-512gb,iPhone 13,512GB,Excelente,3099.0
+2026-10-16,iphone-13-512gb,iPhone 13,512GB,Muito Bom,2939.0
+2026-10-16,iphone-13-mini-256gb,iPhone 13 mini,256GB,Muito Bom,2549.0
+2026-10-16,iphone-13-mini-512gb,iPhone 13 mini,512GB,Bom,2729.0
+2026-10-16,iphone-13-pro-128gb,iPhone 13 Pro,128GB,Excelente,2989.0
+2026-10-16,iphone-13-pro-128gb,iPhone 13 Pro,128GB,Muito Bom,2839.0
+2026-10-16,iphone-13-pro-128gb,iPhone 13 Pro,128GB,Excelente,2989.0
+2026-10-16,iphone-13-pro-128gb,iPhone 13 Pro,128GB,Excelente,2989.0
+2026-10-16,iphone-13-pro-128gb,iPhone 13 Pro,128GB,Excelente,2989.0
+2026-10-16,iphone-13-pro-128gb,iPhone 13 Pro,128GB,Muito Bom,2839.0
+2026-10-16,iphone-13-pro-256gb,iPhone 13 Pro,256GB,Excelente,3309.0
+2026-10-16,iphone-13-pro-256gb,iPhone 13 Pro,256GB,Bom,2949.0
+2026-10-16,iphone-13-pro-512gb,iPhone 13 Pro,512GB,Bom,3369.0
+2026-10-16,iphone-13-pro-512gb,iPhone 13 Pro,512GB,Excelente,3779.0
+2026-10-16,iphone-13-pro-512gb,iPhone 13 Pro,512GB,Muito Bom,3589.0
+2026-10-16,iphone-13-pro-512gb,iPhone 13 Pro,512GB,Bom,3369.0
+2026-10-16,iphone-13-pro-512gb,iPhone 13 Pro,512GB,Excelente,3779.0
+2026-10-16,iphone-13-pro-512gb,iPhone 13 Pro,512GB,Excelente,3779.0
+2026-10-16,iphone-13-pro-max-128gb,iPhone 13 Pro Max,128GB,Excelente,3369.0
+2026-10-16,iphone-13-pro-max-128gb,iPhone 13 Pro Max,128GB,Muito Bom,3199.0
+2026-10-16,iphone-13-pro-max-128gb,iPhone 13 Pro Max,128GB,Excelente,3369.0
+2026-10-16,iphone-13-pro-max-128gb,iPhone 13 Pro Max,128GB,Bom,3009.0
+2026-10-16,iphone-13-pro-max-128gb,iPhone 13 Pro Max,128GB,Muito Bom,3199.0
+2026-10-16,iphone-13-pro-max-256gb,iPhone 13 Pro Max,256GB,Excelente,3929.0
+2026-10-16,iphone-13-pro-max-256gb,iPhone 13 Pro Max,256GB,Muito Bom,3729.0
+2026-10-16,iphone-13-pro-max-256gb,iPhone 13 Pro Max,256GB,Excelente,3929.0
+2026-10-16,iphone-13-pro-max-256gb,iPhone 13 Pro Max,256GB,Muito Bom,3729.0
+2026-10-16,iphone-13-pro-max-256gb,iPhone 13 Pro Max,256GB,Bom,3509.0
+2026-10-16,iphone-13-pro-max-256gb,iPhone 13 Pro Max,256GB,Excelente,3929.0
+2026-10-16,iphone-13-pro-max-256gb,iPhone 13 Pro Max,256GB,Muito Bom,3729.0
+2026-10-16,iphone-13-pro-max-256gb,iPhone 13 Pro Max,256GB,Outlet,2809.0
+2026-10-16,iphone-13-pro-max-512gb,iPhone 13 Pro Max,512GB,Excelente,4249.0
+2026-10-16,iphone-14-128gb,iPhone 14,128GB,Excelente,2909.0
+2026-10-16,iphone-14-128gb,iPhone 14,128GB,Muito Bom,2759.0
+2026-10-16,iphone-14-128gb,iPhone 14,128GB,Excelente,2909.0
+2026-10-16,iphone-14-128gb,iPhone 14,128GB,Excelente,2909.0
+2026-10-16,iphone-14-128gb,iPhone 14,128GB,Outlet,2299.0
+2026-10-16,iphone-14-256gb,iPhone 14,256GB,Excelente,3239.0
+2026-10-16,iphone-14-256gb,iPhone 14,256GB,Excelente,3239.0
+2026-10-16,iphone-14-256gb,iPhone 14,256GB,Muito Bom,3079.0
+2026-10-16,iphone-14-256gb,iPhone 14,256GB,Excelente,3239.0
+2026-10-16,iphone-14-256gb,iPhone 14,256GB,Excelente,3239.0
+2026-10-16,iphone-14-plus-128gb,iPhone 14 Plus,128GB,Excelente,3229.0
+2026-10-16,iphone-14-plus-128gb,iPhone 14 Plus,128GB,Muito Bom,3069.0
+2026-10-16,iphone-14-plus-128gb,iPhone 14 Plus,128GB,Excelente,3229.0
+2026-10-16,iphone-14-plus-128gb,iPhone 14 Plus,128GB,Muito Bom,3069.0
+2026-10-16,iphone-14-plus-128gb,iPhone 14 Plus,128GB,Excelente,3229.0
+2026-10-16,iphone-14-plus-128gb,iPhone 14 Plus,128GB,Outlet,3499.0
+2026-10-16,iphone-14-plus-128gb,iPhone 14 Plus,128GB,Bom,2879.0
+2026-10-16,iphone-14-plus-128gb,iPhone 14 Plus,128GB,Excelente,3229.0
+2026-10-16,iphone-14-plus-256gb,iPhone 14 Plus,256GB,Excelente,3889.0
+2026-10-16,iphone-14-plus-256gb,iPhone 14 Plus,256GB,Muito Bom,3689.0
+2026-10-16,iphone-14-plus-256gb,iPhone 14 Plus,256GB,Muito Bom,3689.0
+2026-10-16,iphone-14-plus-256gb,iPhone 14 Plus,256GB,Bom,3469.0
+2026-10-16,iphone-14-plus-256gb,iPhone 14 Plus,256GB,Excelente,3889.0
+2026-10-16,iphone-14-plus-256gb,iPhone 14 Plus,256GB,Muito Bom,3689.0
+2026-10-16,iphone-14-plus-512gb,iPhone 14 Plus,512GB,Muito Bom,4099.0
+2026-10-16,iphone-14-pro-128gb,iPhone 14 Pro,128GB,Excelente,3999.0
+2026-10-16,iphone-14-pro-128gb,iPhone 14 Pro,128GB,Muito Bom,3799.0
+2026-10-16,iphone-14-pro-128gb,iPhone 14 Pro,128GB,Excelente,3999.0
+2026-10-16,iphone-14-pro-128gb,iPhone 14 Pro,128GB,Bom,3569.0
+2026-10-16,iphone-14-pro-128gb,iPhone 14 Pro,128GB,Muito Bom,3799.0
+2026-10-16,iphone-14-pro-128gb,iPhone 14 Pro,128GB,Excelente,3999.0
+2026-10-16,iphone-14-pro-128gb,iPhone 14 Pro,128GB,Muito Bom,3799.0
+2026-10-16,iphone-14-pro-256gb,iPhone 14 Pro,256GB,Outlet,3809.0
+2026-10-16,iphone-14-pro-256gb,iPhone 14 Pro,256GB,Bom,3629.0
+2026-10-16,iphone-14-pro-256gb,iPhone 14 Pro,256GB,Bom,3629.0
+2026-10-16,iphone-14-pro-256gb,iPhone 14 Pro,256GB,Excelente,4059.0
+2026-10-16,iphone-14-pro-256gb,iPhone 14 Pro,256GB,Muito Bom,3859.0
+2026-10-16,iphone-14-pro-512gb,iPhone 14 Pro,512GB,Excelente,4719.0
+2026-10-16,iphone-14-pro-512gb,iPhone 14 Pro,512GB,Muito Bom,4479.0
+2026-10-16,iphone-14-pro-512gb,iPhone 14 Pro,512GB,Excelente,4719.0
+2026-10-16,iphone-14-pro-512gb,iPhone 14 Pro,512GB,Muito Bom,4479.0
+2026-10-16,iphone-14-pro-512gb,iPhone 14 Pro,512GB,Bom,4209.0
+2026-10-16,iphone-14-pro-512gb,iPhone 14 Pro,512GB,Outlet,4499.0
+2026-10-16,iphone-14-pro-512gb,iPhone 14 Pro,512GB,Bom,4209.0
+2026-10-16,iphone-14-pro-max-128gb,iPhone 14 Pro Max,128GB,Bom,3809.0
+2026-10-16,iphone-14-pro-max-128gb,iPhone 14 Pro Max,128GB,Excelente,4259.0
+2026-10-16,iphone-14-pro-max-128gb,iPhone 14 Pro Max,128GB,Muito Bom,4049.0
+2026-10-16,iphone-14-pro-max-128gb,iPhone 14 Pro Max,128GB,Bom,3809.0
+2026-10-16,iphone-14-pro-max-128gb,iPhone 14 Pro Max,128GB,Muito Bom,4049.0
+2026-10-16,iphone-14-pro-max-128gb,iPhone 14 Pro Max,128GB,Excelente,4259.0
+2026-10-16,iphone-14-pro-max-128gb,iPhone 14 Pro Max,128GB,Muito Bom,4049.0
+2026-10-16,iphone-14-pro-max-128gb,iPhone 14 Pro Max,128GB,Excelente,4259.0
+2026-10-16,iphone-14-pro-max-128gb,iPhone 14 Pro Max,128GB,Muito Bom,4049.0
+2026-10-16,iphone-14-pro-max-128gb,iPhone 14 Pro Max,128GB,Excelente,4259.0
+2026-10-16,iphone-14-pro-max-256gb,iPhone 14 Pro Max,256GB,Excelente,4579.0
+2026-10-16,iphone-14-pro-max-256gb,iPhone 14 Pro Max,256GB,Excelente,4579.0
+2026-10-16,iphone-14-pro-max-256gb,iPhone 14 Pro Max,256GB,Muito Bom,4349.0
+2026-10-16,iphone-14-pro-max-256gb,iPhone 14 Pro Max,256GB,Muito Bom,4349.0
+2026-10-16,iphone-14-pro-max-256gb,iPhone 14 Pro Max,256GB,Excelente,4579.0
+2026-10-16,iphone-14-pro-max-256gb,iPhone 14 Pro Max,256GB,Muito Bom,4349.0
+2026-10-16,iphone-14-pro-max-512gb,iPhone 14 Pro Max,512GB,Excelente,5319.0
+2026-10-16,iphone-14-pro-max-512gb,iPhone 14 Pro Max,512GB,Muito Bom,5049.0
+2026-10-16,iphone-14-pro-max-512gb,iPhone 14 Pro Max,512GB,Bom,4749.0
+2026-10-16,iphone-14-pro-max-512gb,iPhone 14 Pro Max,512GB,Excelente,5319.0
+2026-10-16,iphone-14-pro-max-512gb,iPhone 14 Pro Max,512GB,Excelente,5319.0
+2026-10-16,iphone-14-pro-max-512gb,iPhone 14 Pro Max,512GB,Excelente,5319.0
+2026-10-16,iphone-14-pro-max-512gb,iPhone 14 Pro Max,512GB,Bom,4749.0
+2026-10-16,iphone-15-128gb,iPhone 15,128GB,Muito Bom,3509.0
+2026-10-16,iphone-15-128gb,iPhone 15,128GB,Excelente,3699.0
+2026-10-16,iphone-15-128gb,iPhone 15,128GB,Muito Bom,3509.0
+2026-10-16,iphone-15-128gb,iPhone 15,128GB,Excelente,3699.0
+2026-10-16,iphone-15-128gb,iPhone 15,128GB,Outlet,2979.0
+2026-10-16,iphone-15-128gb,iPhone 15,128GB,Excelente,3699.0
+2026-10-16,iphone-15-128gb,iPhone 15,128GB,Muito Bom,3509.0
+2026-10-16,iphone-15-128gb,iPhone 15,128GB,Excelente,3699.0
+2026-10-16,iphone-15-256gb,iPhone 15,256GB,Excelente,4019.0
+2026-10-16,iphone-15-256gb,iPhone 15,256GB,Muito Bom,3819.0
+2026-10-16,iphone-15-256gb,iPhone 15,256GB,Bom,3589.0
+2026-10-16,iphone-15-256gb,iPhone 15,256GB,Excelente,4019.0
+2026-10-16,iphone-15-256gb,iPhone 15,256GB,Muito Bom,3819.0
+2026-10-16,iphone-15-256gb,iPhone 15,256GB,Excelente,4019.0
+2026-10-16,iphone-15-512gb,iPhone 15,512GB,Excelente,5099.0
+2026-10-16,iphone-15-512gb,iPhone 15,512GB,Excelente,5099.0
+2026-10-16,iphone-15-plus-256gb,iPhone 15 Plus,256GB,Excelente,4749.0
+2026-10-16,iphone-15-plus-256gb,iPhone 15 Plus,256GB,Outlet,3389.0
+2026-10-16,iphone-15-plus-256gb,iPhone 15 Plus,256GB,Bom,4239.0
+2026-10-16,iphone-15-plus-512gb,iPhone 15 Plus,512GB,Excelente,5619.0
+2026-10-16,iphone-15-pro-128gb,iPhone 15 Pro,128GB,Muito Bom,3909.0
+2026-10-16,iphone-15-pro-256gb,iPhone 15 Pro,256GB,Excelente,4979.0
+2026-10-16,iphone-15-pro-256gb,iPhone 15 Pro,256GB,Excelente,4979.0
+2026-10-16,iphone-15-pro-max-256gb,iPhone 15 Pro Max,256GB,Excelente,5109.0
+2026-10-16,iphone-15-pro-max-256gb,iPhone 15 Pro Max,256GB,Outlet,5059.0
+2026-10-16,iphone-15-pro-max-256gb,iPhone 15 Pro Max,256GB,Excelente,5109.0
+2026-10-16,iphone-15-pro-max-256gb,iPhone 15 Pro Max,256GB,Muito Bom,4849.0
+2026-10-16,iphone-15-pro-max-256gb,iPhone 15 Pro Max,256GB,Excelente,5109.0
+2026-10-16,iphone-15-pro-max-256gb,iPhone 15 Pro Max,256GB,Outlet,5059.0
+2026-10-16,iphone-15-pro-max-512gb,iPhone 15 Pro Max,512GB,Bom,5319.0
+2026-10-16,iphone-15-pro-max-512gb,iPhone 15 Pro Max,512GB,Excelente,5959.0
+2026-10-16,iphone-15-pro-max-512gb,iPhone 15 Pro Max,512GB,Muito Bom,5659.0
+2026-10-16,iphone-15-pro-max-512gb,iPhone 15 Pro Max,512GB,Excelente,5959.0
+2026-10-16,iphone-15-pro-max-512gb,iPhone 15 Pro Max,512GB,Muito Bom,5659.0
+2026-10-16,iphone-15-pro-max-512gb,iPhone 15 Pro Max,512GB,Excelente,5959.0
+2026-10-16,iphone-16-128gb,iPhone 16,128GB,Excelente,4899.0
+2026-10-16,iphone-16-128gb,iPhone 16,128GB,Bom,4369.0
+2026-10-16,iphone-16-128gb,iPhone 16,128GB,Excelente,4899.0
+2026-10-16,iphone-16-128gb,iPhone 16,128GB,Muito Bom,4649.0
+2026-10-16,iphone-16-128gb,iPhone 16,128GB,Muito Bom,4649.0
+2026-10-16,iphone-16-128gb,iPhone 16,128GB,Muito Bom,4649.0
+2026-10-16,iphone-16-256gb,iPhone 16,256GB,Excelente,5099.0
+2026-10-16,iphone-16-256gb,iPhone 16,256GB,Excelente,5099.0
+2026-10-16,iphone-16-256gb,iPhone 16,256GB,Excelente,5099.0
+2026-10-16,iphone-16-plus-128gb,iPhone 16 Plus,128GB,Excelente,5739.0
+2026-10-16,iphone-16-plus-128gb,iPhone 16 Plus,128GB,Excelente,5739.0
+2026-10-16,iphone-16-plus-256gb,iPhone 16 Plus,256GB,Excelente,6199.0
+2026-10-16,iphone-16-plus-256gb,iPhone 16 Plus,256GB,Excelente,6199.0
+2026-10-16,iphone-16-pro-128gb,iPhone 16 Pro,128GB,Excelente,6599.0
+2026-10-16,iphone-16-pro-128gb,iPhone 16 Pro,128GB,Excelente,6599.0
+2026-10-16,iphone-16-pro-128gb,iPhone 16 Pro,128GB,Bom,5889.0
+2026-10-16,iphone-16-pro-128gb,iPhone 16 Pro,128GB,Excelente,6599.0
+2026-10-16,iphone-16-pro-128gb,iPhone 16 Pro,128GB,Muito Bom,6269.0
+2026-10-16,iphone-16-pro-256gb,iPhone 16 Pro,256GB,Excelente,6789.0
+2026-10-16,iphone-16-pro-256gb,iPhone 16 Pro,256GB,Excelente,6789.0
+2026-10-16,iphone-16-pro-256gb,iPhone 16 Pro,256GB,Excelente,6789.0
+2026-10-16,iphone-16-pro-256gb,iPhone 16 Pro,256GB,Bom,6059.0
+2026-10-16,iphone-16-pro-256gb,iPhone 16 Pro,256GB,Muito Bom,6449.0
+2026-10-16,iphone-16-pro-512gb,iPhone 16 Pro,512GB,Muito Bom,6819.0
+2026-10-16,iphone-16-pro-512gb,iPhone 16 Pro,512GB,Excelente,7179.0
+2026-10-16,iphone-16-pro-512gb,iPhone 16 Pro,512GB,Excelente,7179.0
+2026-10-16,iphone-16-pro-max-256gb,iPhone 16 Pro Max,256GB,Excelente,6639.0
+2026-10-16,iphone-16-pro-max-256gb,iPhone 16 Pro Max,256GB,Excelente,6639.0
+2026-10-16,iphone-16-pro-max-256gb,iPhone 16 Pro Max,256GB,Muito Bom,6309.0
+2026-10-16,iphone-16-pro-max-256gb,iPhone 16 Pro Max,256GB,Excelente,6639.0
+2026-10-16,iphone-16-pro-max-256gb,iPhone 16 Pro Max,256GB,Muito Bom,6309.0
+2026-10-16,iphone-16-pro-max-256gb,iPhone 16 Pro Max,256GB,Excelente,6639.0
+2026-10-16,iphone-16-pro-max-256gb,iPhone 16 Pro Max,256GB,Muito Bom,6309.0
+2026-10-16,iphone-16-pro-max-512gb,iPhone 16 Pro Max,512GB,Excelente,7609.0
+2026-10-16,iphone-16-pro-max-512gb,iPhone 16 Pro Max,512GB,Excelente,7609.0
+2026-10-16,iphone-16-pro-max-512gb,iPhone 16 Pro Max,512GB,Bom,6799.0
+2026-10-16,iphone-16-pro-max-512gb,iPhone 16 Pro Max,512GB,Excelente,7609.0
+2026-10-16,iphone-16-pro-max-512gb,iPhone 16 Pro Max,512GB,Muito Bom,7229.0
+2026-10-16,iphone-16e-128gb,iPhone 16e,128GB,Excelente,3309.0
+2026-10-16,iphone-16e-256gb,iPhone 16e,256GB,Excelente,3819.0
+2026-10-16,iphone-16e-256gb,iPhone 16e,256GB,Excelente,3819.0
+2026-10-16,iphone-17-pro-256gb,iPhone 17 Pro,256GB,Excelente,8009.0
+2026-10-16,iphone-17-pro-256gb,iPhone 17 Pro,256GB,Muito Bom,7609.0
+2026-10-16,iphone-17-pro-512gb,iPhone 17 Pro,512GB,Excelente,8799.0
+2026-10-16,iphone-17-pro-512gb,iPhone 17 Pro,512GB,Excelente,8799.0
+2026-10-16,iphone-17-pro-max-256gb,iPhone 17 Pro Max,256GB,Excelente,9219.0
+2026-10-16,iphone-17-pro-max-256gb,iPhone 17 Pro Max,256GB,Excelente,9219.0
+2026-10-16,iphone-17-pro-max-512gb,iPhone 17 Pro Max,512GB,Bom,8629.0
+2026-10-16,iphone-17-pro-max-512gb,iPhone 17 Pro Max,512GB,Excelente,9659.0
+2026-10-16,galaxy-a01-32gb,Galaxy A01,32GB,Excelente,379.0
+2026-10-16,galaxy-a01-core-32gb,Galaxy A01 Core,32GB,Bom,359.0
+2026-10-16,galaxy-a01-core-32gb,Galaxy A01 Core,32GB,Excelente,399.0
+2026-10-16,galaxy-a02s-32gb,Galaxy A02S,32GB,Excelente,449.0
+2026-10-16,galaxy-a03s-64gb,Galaxy A03S,64GB,Muito Bom,519.0
+2026-10-16,galaxy-a03s-64gb,Galaxy A03S,64GB,Bom,489.0
+2026-10-16,galaxy-a04s-64gb,Galaxy A04S,64GB,Muito Bom,479.0
+2026-10-16,galaxy-a05-128gb,Galaxy A05,128GB,Bom,509.0
+2026-10-16,galaxy-a05-128gb,Galaxy A05,128GB,Muito Bom,539.0
+2026-10-16,galaxy-a07-128gb,Galaxy A07,128GB,Excelente,609.0
+2026-10-16,galaxy-a07-256gb,Galaxy A07,256GB,Muito Bom,819.0
+2026-10-16,galaxy-a07-256gb,Galaxy A07,256GB,Excelente,859.0
+2026-10-16,galaxy-a10-32gb,Galaxy A10,32GB,Bom,379.0
+2026-10-16,galaxy-a10-32gb,Galaxy A10,32GB,Muito Bom,409.0
+2026-10-16,galaxy-a11-64gb,Galaxy A11,64GB,Bom,419.0
+2026-10-16,galaxy-a11-64gb,Galaxy A11,64GB,Bom,419.0
+2026-10-16,galaxy-a11-64gb,Galaxy A11,64GB,Muito Bom,449.0
+2026-10-16,galaxy-a14-128gb,Galaxy A14,128GB,Bom,669.0
+2026-10-16,galaxy-a14-128gb,Galaxy A14,128GB,Excelente,749.0
+2026-10-16,galaxy-a14-128gb,Galaxy A14,128GB,Muito Bom,709.0
+2026-10-16,galaxy-a14-128gb,Galaxy A14,128GB,Bom,669.0
+2026-10-16,galaxy-a14-128gb,Galaxy A14,128GB,Excelente,749.0
+2026-10-16,galaxy-a14-128gb,Galaxy A14,128GB,Muito Bom,709.0
+2026-10-16,galaxy-a14-128gb,Galaxy A14,128GB,Muito Bom,729.0
+2026-10-16,galaxy-a14-128gb,Galaxy A14,128GB,Bom,689.0
+2026-10-16,galaxy-a14-128gb,Galaxy A14,128GB,Bom,689.0
+2026-10-16,galaxy-a14-128gb,Galaxy A14,128GB,Outlet,549.0
+2026-10-16,galaxy-a14-64gb,Galaxy A14,64GB,Bom,599.0
+2026-10-16,galaxy-a15-256gb,Galaxy A15,256GB,Bom,879.0
+2026-10-16,galaxy-a15-256gb,Galaxy A15,256GB,Bom,839.0
+2026-10-16,galaxy-a15-256gb,Galaxy A15,256GB,Excelente,939.0
+2026-10-16,galaxy-a16-256gb,Galaxy A16,256GB,Excelente,929.0
+2026-10-16,galaxy-a16-256gb,Galaxy A16,256GB,Muito Bom,879.0
+2026-10-16,galaxy-a16-128gb,Galaxy A16,128GB,Bom,759.0
+2026-10-16,galaxy-a20s-32gb,Galaxy A20S,32GB,Muito Bom,479.0
+2026-10-16,galaxy-a22-128gb,Galaxy A22,128GB,Muito Bom,629.0
+2026-10-16,galaxy-a22-128gb,Galaxy A22,128GB,Bom,589.0
+2026-10-16,galaxy-a23-128gb,Galaxy A23,128GB,Bom,579.0
+2026-10-16,galaxy-a25-256gb,Galaxy A25,256GB,Bom,999.0
+2026-10-16,galaxy-a25-256gb,Galaxy A25,256GB,Muito Bom,1069.0
+2026-10-16,galaxy-a26-256gb,Galaxy A26,256GB,Bom,1289.0
+2026-10-16,galaxy-a30s-128gb,Galaxy A30S,128GB,Bom,709.0
+2026-10-16,galaxy-a30s-64gb,Galaxy A30S,64GB,Bom,489.0
+2026-10-16,galaxy-a32-128gb,Galaxy A32,128GB,Bom,619.0
+2026-10-16,galaxy-a32-128gb,Galaxy A32,128GB,Bom,699.0
+2026-10-16,galaxy-a32-128gb,Galaxy A32,128GB,Bom,699.0
+2026-10-16,galaxy-a34-128gb,Galaxy A34,128GB,Bom,909.0
+2026-10-16,galaxy-a34-128gb,Galaxy A34,128GB,Excelente,1019.0
+2026-10-16,galaxy-a34-128gb,Galaxy A34,128GB,Muito Bom,969.0
+2026-10-16,galaxy-a34-128gb,Galaxy A34,128GB,Excelente,1019.0
+2026-10-16,galaxy-a34-128gb,Galaxy A34,128GB,Muito Bom,969.0
+2026-10-16,galaxy-a34-128gb,Galaxy A34,128GB,Bom,909.0
+2026-10-16,galaxy-a34-128gb,Galaxy A34,128GB,Excelente,1019.0
+2026-10-16,galaxy-a34-128gb,Galaxy A34,128GB,Muito Bom,969.0
+2026-10-16,galaxy-a34-256gb,Galaxy A34,256GB,Bom,1009.0
+2026-10-16,galaxy-a34-256gb,Galaxy A34,256GB,Excelente,1139.0
+2026-10-16,galaxy-a34-256gb,Galaxy A34,256GB,Muito Bom,1079.0
+2026-10-16,galaxy-a34-256gb,Galaxy A34,256GB,Bom,1009.0
+2026-10-16,galaxy-a34-256gb,Galaxy A34,256GB,Excelente,1139.0
+2026-10-16,galaxy-a34-256gb,Galaxy A34,256GB,Muito Bom,1079.0
+2026-10-16,galaxy-a34-256gb,Galaxy A34,256GB,Muito Bom,1079.0
+2026-10-16,galaxy-a34-256gb,Galaxy A34,256GB,Bom,1009.0
+2026-10-16,galaxy-a34-256gb,Galaxy A34,256GB,Muito Bom,1079.0
+2026-10-16,galaxy-a35-256gb,Galaxy A35,256GB,Excelente,1359.0
+2026-10-16,galaxy-a35-256gb,Galaxy A35,256GB,Muito Bom,1289.0
+2026-10-16,galaxy-a35-256gb,Galaxy A35,256GB,Outlet,969.0
+2026-10-16,galaxy-a50-128gb,Galaxy A50,128GB,Bom,619.0
+2026-10-16,galaxy-a51-128gb,Galaxy A51,128GB,Bom,619.0
+2026-10-16,galaxy-a51-128gb,Galaxy A51,128GB,Bom,619.0
+2026-10-16,galaxy-a52-128gb,Galaxy A52,128GB,Bom,789.0
+2026-10-16,galaxy-a52s-128gb,Galaxy A52S,128GB,Bom,759.0
+2026-10-16,galaxy-a53-128gb,Galaxy A53,128GB,Bom,769.0
+2026-10-16,galaxy-a54-128gb,Galaxy A54,128GB,Excelente,1129.0
+2026-10-16,galaxy-a54-128gb,Galaxy A54,128GB,Muito Bom,1069.0
+2026-10-16,galaxy-a55-128gb,Galaxy A55,128GB,Excelente,1459.0
+2026-10-16,galaxy-a55-128gb,Galaxy A55,128GB,Bom,1309.0
+2026-10-16,galaxy-a55-128gb,Galaxy A55,128GB,Excelente,1459.0
+2026-10-16,galaxy-a55-256gb,Galaxy A55,256GB,Outlet,1139.0
+2026-10-16,galaxy-a55-256gb,Galaxy A55,256GB,Bom,1419.0
+2026-10-16,galaxy-a55-256gb,Galaxy A55,256GB,Muito Bom,1509.0
+2026-10-16,galaxy-a56-128gb,Galaxy A56,128GB,Excelente,1869.0
+2026-10-16,galaxy-a56-128gb,Galaxy A56,128GB,Muito Bom,1779.0
+2026-10-16,galaxy-a56-128gb,Galaxy A56,128GB,Excelente,1869.0
+2026-10-16,galaxy-a56-256gb,Galaxy A56,256GB,Excelente,2059.0
+2026-10-16,galaxy-a56-256gb,Galaxy A56,256GB,Muito Bom,1959.0
+2026-10-16,galaxy-a56-256gb,Galaxy A56,256GB,Bom,1839.0
+2026-10-16,galaxy-a56-256gb,Galaxy A56,256GB,Excelente,2059.0
+2026-10-16,galaxy-a56-256gb,Galaxy A56,256GB,Muito Bom,1959.0
+2026-10-16,galaxy-a56-256gb,Galaxy A56,256GB,Excelente,2059.0
+2026-10-16,galaxy-a71-128gb,Galaxy A71,128GB,Bom,729.0
+2026-10-16,galaxy-a72-128gb,Galaxy A72,128GB,Bom,839.0
+2026-10-16,galaxy-a72-128gb,Galaxy A72,128GB,Bom,839.0
+2026-10-16,galaxy-a73-128gb,Galaxy A73,128GB,Bom,899.0
+2026-10-16,galaxy-s21-128gb,Galaxy S21,128GB,Bom,989.0
+2026-10-16,galaxy-s21-fe-128gb,Galaxy S21 FE,128GB,Bom,1239.0
+2026-10-16,galaxy-s21-fe-128gb,Galaxy S21 FE,128GB,Excelente,1389.0
+2026-10-16,galaxy-s21-fe-128gb,Galaxy S21 FE,128GB,Muito Bom,1319.0
+2026-10-16,galaxy-s21-fe-128gb,Galaxy S21 FE,128GB,Outlet,989.0
+2026-10-16,galaxy-s21-fe-256gb,Galaxy S21 FE,256GB,Muito Bom,1289.0
+2026-10-16,galaxy-s21-fe-128gb,Galaxy S21 FE,128GB,Muito Bom,1129.0
+2026-10-16,galaxy-s21-fe-128gb,Galaxy S21 FE,128GB,Bom,1059.0
+2026-10-16,galaxy-s21-fe-256gb,Galaxy S21 FE,256GB,Bom,1469.0
+2026-10-16,galaxy-s21-fe-256gb,Galaxy S21 FE,256GB,Excelente,1649.0
+2026-10-16,galaxy-s21-fe-256gb,Galaxy S21 FE,256GB,Muito Bom,1569.0
+2026-10-16,galaxy-s21-fe-256gb,Galaxy S21 FE,256GB,Bom,1469.0
+2026-10-16,galaxy-s21-fe-256gb,Galaxy S21 FE,256GB,Excelente,1649.0
+2026-10-16,galaxy-s21-fe-256gb,Galaxy S21 FE,256GB,Muito Bom,1569.0
+2026-10-16,galaxy-s21-fe-256gb,Galaxy S21 FE,256GB,Muito Bom,1569.0
+2026-10-16,galaxy-s21-fe-128gb,Galaxy S21 FE,128GB,Bom,1329.0
+2026-10-16,galaxy-s21-fe-128gb,Galaxy S21 FE,128GB,Excelente,1499.0
+2026-10-16,galaxy-s21-fe-128gb,Galaxy S21 FE,128GB,Outlet,1059.0
+2026-10-16,galaxy-s21-fe-128gb,Galaxy S21 FE,128GB,Bom,1329.0
+2026-10-16,galaxy-s21-fe-128gb,Galaxy S21 FE,128GB,Excelente,1499.0
+2026-10-16,galaxy-s21-fe-256gb,Galaxy S21 FE,256GB,Bom,1499.0
+2026-10-16,galaxy-s21-fe-256gb,Galaxy S21 FE,256GB,Muito Bom,1599.0
+2026-10-16,galaxy-s21-fe-256gb,Galaxy S21 FE,256GB,Bom,1499.0
+2026-10-16,galaxy-s21-ultra-256gb,Galaxy S21 Ultra,256GB,Bom,2139.0
+2026-10-16,galaxy-s21-ultra-256gb,Galaxy S21 Ultra,256GB,Muito Bom,2279.0
+2026-10-16,galaxy-s21-ultra-256gb,Galaxy S21 Ultra,256GB,Bom,2139.0
+2026-10-16,galaxy-s21-ultra-256gb,Galaxy S21 Ultra,256GB,Muito Bom,2279.0
+2026-10-16,galaxy-s21-ultra-512gb,Galaxy S21 Ultra,512GB,Bom,2449.0
+2026-10-16,galaxy-s23-256gb,Galaxy S23+,256GB,Excelente,2439.0
+2026-10-16,galaxy-s23-256gb,Galaxy S23+,256GB,Bom,2179.0
+2026-10-16,galaxy-s23-256gb,Galaxy S23+,256GB,Bom,2179.0
+2026-10-16,galaxy-s23-512gb,Galaxy S23+,512GB,Bom,2999.0
+2026-10-16,galaxy-s23-512gb,Galaxy S23+,512GB,Muito Bom,3189.0
+2026-10-16,galaxy-s23-256gb,Galaxy S23,256GB,Excelente,2329.0
+2026-10-16,galaxy-s23-256gb,Galaxy S23,256GB,Bom,2079.0
+2026-10-16,galaxy-s23-256gb,Galaxy S23,256GB,Muito Bom,2209.0
+2026-10-16,galaxy-s23-256gb,Galaxy S23,256GB,Muito Bom,2209.0
+2026-10-16,galaxy-s23-512gb,Galaxy S23,512GB,Bom,2429.0
+2026-10-16,galaxy-s23-fe-128gb,Galaxy S23 FE,128GB,Bom,1629.0
+2026-10-16,galaxy-s23-fe-128gb,Galaxy S23 FE,128GB,Bom,1629.0
+2026-10-16,galaxy-s23-fe-128gb,Galaxy S23 FE,128GB,Excelente,1829.0
+2026-10-16,galaxy-s23-fe-256gb,Galaxy S23 FE,256GB,Excelente,1909.0
+2026-10-16,galaxy-s23-fe-256gb,Galaxy S23 FE,256GB,Excelente,1909.0
+2026-10-16,galaxy-s23-fe-256gb,Galaxy S23 FE,256GB,Muito Bom,1809.0
+2026-10-16,galaxy-s24-256gb,Galaxy S24+,256GB,Excelente,3089.0
+2026-10-16,galaxy-s24-256gb,Galaxy S24+,256GB,Excelente,3089.0
+2026-10-16,galaxy-s24-256gb,Galaxy S24+,256GB,Muito Bom,2929.0
+2026-10-16,galaxy-s24-128gb,Galaxy S24,128GB,Muito Bom,2559.0
+2026-10-16,galaxy-s24-128gb,Galaxy S24,128GB,Excelente,2699.0
+2026-10-16,galaxy-s24-128gb,Galaxy S24,128GB,Muito Bom,2559.0
+2026-10-16,galaxy-s24-128gb,Galaxy S24,128GB,Bom,2409.0
+2026-10-16,galaxy-s24-128gb,Galaxy S24,128GB,Excelente,2699.0
+2026-10-16,galaxy-s24-128gb,Galaxy S24,128GB,Muito Bom,2559.0
+2026-10-16,galaxy-s24-128gb,Galaxy S24,128GB,Muito Bom,2559.0
+2026-10-16,galaxy-s24-256gb,Galaxy S24,256GB,Excelente,2849.0
+2026-10-16,galaxy-s24-256gb,Galaxy S24,256GB,Excelente,2849.0
+2026-10-16,galaxy-s24-256gb,Galaxy S24,256GB,Excelente,2849.0
+2026-10-16,galaxy-s24-512gb,Galaxy S24,512GB,Excelente,3539.0
+2026-10-16,galaxy-s24-512gb,Galaxy S24,512GB,Bom,3159.0
+2026-10-16,galaxy-s24-512gb,Galaxy S24,512GB,Excelente,3539.0
+2026-10-16,galaxy-s24-fe-128gb,Galaxy S24 FE,128GB,Excelente,2379.0
+2026-10-16,galaxy-s24-fe-256gb,Galaxy S24 FE,256GB,Excelente,2579.0
+2026-10-16,galaxy-s24-fe-256gb,Galaxy S24 FE,256GB,Muito Bom,2449.0
+2026-10-16,galaxy-s24-fe-256gb,Galaxy S24 FE,256GB,Muito Bom,2449.0
+2026-10-16,galaxy-s24-ultra-256gb,Galaxy S24 Ultra,256GB,Bom,3679.0
+2026-10-16,galaxy-s24-ultra-256gb,Galaxy S24 Ultra,256GB,Excelente,4129.0
+2026-10-16,galaxy-s24-ultra-256gb,Galaxy S24 Ultra,256GB,Muito Bom,3919.0
+2026-10-16,galaxy-s24-ultra-256gb,Galaxy S24 Ultra,256GB,Excelente,4129.0
+2026-10-16,galaxy-s24-ultra-512gb,Galaxy S24 Ultra,512GB,Excelente,4499.0
+2026-10-16,galaxy-s24-ultra-512gb,Galaxy S24 Ultra,512GB,Bom,4009.0
+2026-10-16,galaxy-s24-ultra-512gb,Galaxy S24 Ultra,512GB,Excelente,4499.0
+2026-10-16,galaxy-s24-ultra-512gb,Galaxy S24 Ultra,512GB,Muito Bom,4269.0
+2026-10-16,galaxy-s24-ultra-512gb,Galaxy S24 Ultra,512GB,Muito Bom,4269.0
+2026-10-16,galaxy-s24-ultra-512gb,Galaxy S24 Ultra,512GB,Bom,4009.0
+2026-10-16,galaxy-s24-ultra-512gb,Galaxy S24 Ultra,512GB,Muito Bom,4269.0
+2026-10-16,galaxy-s25-256gb,Galaxy S25+,256GB,Excelente,3879.0
+2026-10-16,galaxy-s25-256gb,Galaxy S25+,256GB,Excelente,3879.0
+2026-10-16,galaxy-s25-512gb,Galaxy S25+,512GB,Excelente,4419.0
+2026-10-16,galaxy-s25-256gb,Galaxy S25,256GB,Bom,3349.0
+2026-10-16,galaxy-s25-256gb,Galaxy S25,256GB,Excelente,3759.0
+2026-10-16,galaxy-s25-256gb,Galaxy S25,256GB,Muito Bom,3569.0
+2026-10-16,galaxy-s25-256gb,Galaxy S25,256GB,Excelente,3759.0
+2026-10-16,galaxy-s25-256gb,Galaxy S25,256GB,Muito Bom,3569.0
+2026-10-16,galaxy-s25-256gb,Galaxy S25,256GB,Excelente,3759.0
+2026-10-16,galaxy-s25-256gb,Galaxy S25,256GB,Muito Bom,3569.0
+2026-10-16,galaxy-s25-fe-256gb,Galaxy S25 FE,256GB,Excelente,3139.0
+2026-10-16,galaxy-s25-fe-512gb,Galaxy S25 FE,512GB,Excelente,4359.0
+2026-10-16,galaxy-s25-ultra-256gb,Galaxy S25 Ultra,256GB,Excelente,4949.0
+2026-10-16,galaxy-s25-ultra-256gb,Galaxy S25 Ultra,256GB,Muito Bom,4699.0
+2026-10-16,galaxy-s25-ultra-256gb,Galaxy S25 Ultra,256GB,Excelente,4949.0
+2026-10-16,galaxy-s25-ultra-256gb,Galaxy S25 Ultra,256GB,Muito Bom,4699.0
+2026-10-16,galaxy-s25-ultra-256gb,Galaxy S25 Ultra,256GB,Excelente,4949.0
+2026-10-16,galaxy-s25-ultra-256gb,Galaxy S25 Ultra,256GB,Excelente,4949.0
+2026-10-16,galaxy-s26-512gb,Galaxy S26,512GB,Excelente,4999.0
+2026-10-16,galaxy-s26-512gb,Galaxy S26,512GB,Excelente,4999.0
+2026-10-16,galaxy-s26-512gb,Galaxy S26,512GB,Excelente,4999.0
+2026-10-16,iphone-12-256gb,iPhone 12,256GB,Muito Bom,2392.95
+2026-10-16,iphone-12-256gb,iPhone 12,256GB,Excelente,2518.95
+2026-10-16,iphone-12-mini-64gb,iPhone 12 mini,64GB,Excelente,1783.95
+2026-10-16,iphone-12-pro-128gb,iPhone 12 Pro,128GB,Muito Bom,2392.95
+2026-10-16,iphone-13-128gb,iPhone 13,128GB,Muito Bom,2403.45
+2026-10-16,iphone-13-mini-128gb,iPhone 13 mini,128GB,Bom,2224.95
+2026-10-16,iphone-13-pro-256gb,iPhone 13 Pro,256GB,Excelente,3778.95
+2026-10-16,iphone-13-pro-512gb,iPhone 13 Pro,512GB,Excelente,4104.45
+2026-10-16,iphone-13-pro-max-256gb,iPhone 13 Pro Max,256GB,Bom,3694.95
+2026-10-16,iphone-13-pro-max-256gb,iPhone 13 Pro Max,256GB,Excelente,4093.95
+2026-10-16,iphone-14-plus-128gb,iPhone 14 Plus,128GB,Muito Bom,3243.45
+2026-10-16,iphone-14-pro-512gb,iPhone 14 Pro,512GB,Excelente,4504.5
+2026-10-16,iphone-14-pro-512gb,iPhone 14 Pro,512GB,Excelente,4504.5
+2026-10-16,iphone-14-pro-512gb,iPhone 14 Pro,512GB,Muito Bom,4282.95
+2026-10-16,iphone-14-pro-max-256gb,iPhone 14 Pro Max,256GB,Excelente,5038.95
+2026-10-16,galaxy-a54-256gb,Galaxy A54,256GB,Bom,1219.0
+2026-10-16,galaxy-s21-ultra-256gb,Galaxy S21 Ultra,256GB,Muito Bom,2279.0
+2026-10-16,galaxy-s21-ultra-256gb,Galaxy S21 Ultra,256GB,Bom,2039.0
+2026-10-16,galaxy-s21-ultra-256gb,Galaxy S21 Ultra,256GB,Muito Bom,2189.0
+2026-10-16,galaxy-s21-ultra-256gb,Galaxy S21 Ultra,256GB,Outlet,1989.0
+2026-10-16,galaxy-s22-ultra-512gb,Galaxy S22 Ultra,512GB,Muito Bom,3099.0
+2026-10-16,galaxy-s22-ultra-256gb,Galaxy S22 Ultra,256GB,Muito Bom,2569.0
+2026-10-16,galaxy-s22-ultra-256gb,Galaxy S22 Ultra,256GB,Outlet,2389.0
+2026-10-16,galaxy-s22-ultra-512gb,Galaxy S22 Ultra,512GB,Muito Bom,3339.0
+2026-10-16,galaxy-s22-ultra-512gb,Galaxy S22 Ultra,512GB,Bom,2939.0
+2026-10-16,galaxy-s22-ultra-512gb,Galaxy S22 Ultra,512GB,Bom,3139.0
+2026-10-16,galaxy-s22-ultra-512gb,Galaxy S22 Ultra,512GB,Outlet,2339.18
+2026-10-16,galaxy-s23-128gb,Galaxy S23,128GB,Muito Bom,1803.09
+2026-10-16,galaxy-s23-plus-256gb,Galaxy S23 Plus,256GB,Muito Bom,2099.0
+2026-10-16,galaxy-s23-plus-256gb,Galaxy S23 Plus,256GB,Outlet,1999.0
+2026-10-16,galaxy-s23-plus-256gb,Galaxy S23 Plus,256GB,Muito Bom,2359.0
+2026-10-16,galaxy-s23-plus-512gb,Galaxy S23 Plus,512GB,Bom,2379.0
+2026-10-16,iphone-11-128gb,iPhone 11,128GB,Muito Bom,1594.95
+2026-10-16,iphone-11-128gb,iPhone 11,128GB,Outlet,1363.95
+2026-10-16,iphone-11-128gb,iPhone 11,128GB,Bom,1510.95
+2026-10-16,iphone-11-128gb,iPhone 11,128GB,Outlet,1363.95
+2026-10-16,iphone-11-256gb,iPhone 11,256GB,Muito Bom,1769.0
+2026-10-16,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Excelente,1594.95
+2026-10-16,iphone-11-pro-64gb,iPhone 11 Pro,64GB,Outlet,1259.0
