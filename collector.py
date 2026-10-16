@@ -17,11 +17,11 @@ SMALL = {"pro": "Pro", "max": "Max", "plus": "Plus", "ultra": "Ultra", "fe": "FE
 DROP = {"apple", "samsung", "usado", "seminovo", "smartphone", "celular", "5g", "4g"}
 
 
-def fetch(url, tries=3):
+def fetch(url, tries=2):
     for i in range(tries):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Encoding": "gzip"})
-            with urllib.request.urlopen(req, timeout=30) as r:
+            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Encoding": "gzip", "Accept": "text/html,application/xhtml+xml", "Accept-Language": "pt-BR,pt;q=0.9"})
+            with urllib.request.urlopen(req, timeout=12) as r:
                 b = r.read()
                 if r.headers.get("Content-Encoding") == "gzip":
                     b = gzip.decompress(b)
@@ -29,9 +29,9 @@ def fetch(url, tries=3):
         except urllib.error.HTTPError as e:
             if e.code in (404, 410):
                 return None
-            time.sleep(5 * (i + 1))
+            time.sleep(2)
         except Exception:
-            time.sleep(5 * (i + 1))
+            time.sleep(2)
     return None
 
 
@@ -142,20 +142,27 @@ def main(argv):
         urls = urls[:limit]
     print(f"{len(urls)} URLs de celular permitidas", file=sys.stderr)
     offers, seen = [], set()
+    t0 = time.time()
+    today = dt.datetime.now().strftime("%Y-%m-%d")
     for i, u in enumerate(urls):
         for o in parse_product_html(fetch(u), u):
             k = (o["slug"], o["condition"], o["name"], o["price"])
             if k not in seen:
                 seen.add(k); offers.append(o)
         if i % 25 == 0:
-            print(f"  {i}/{len(urls)} páginas, {len(offers)} ofertas", file=sys.stderr)
+            print(f"  {i}/{len(urls)} páginas, {len(offers)} ofertas, {int(time.time() - t0)}s", file=sys.stderr)
         time.sleep(delay)
-    today = dt.datetime.now().strftime("%Y-%m-%d")
-    snap = {"date": today, "source": "trocafone.com.br", "offers": offers}
-    os.makedirs(os.path.join(ROOT, "data", "snapshots"), exist_ok=True)
-    json.dump(snap, open(os.path.join(ROOT, "data", "snapshots", today + ".json"), "w"), ensure_ascii=False, indent=0)
-    append_history(offers, today)
+        if i and i % 200 == 0:
+            save(offers, today, partial=True)  # checkpoint: o gerador já pode usar
+    save(offers, today)
     print(f"OK {today}: {len(offers)} ofertas em estoque", file=sys.stderr)
+
+
+def save(offers, day, partial=False):
+    os.makedirs(os.path.join(ROOT, "data", "snapshots"), exist_ok=True)
+    snap = {"date": day, "source": "trocafone.com.br", "partial": partial, "offers": offers}
+    json.dump(snap, open(os.path.join(ROOT, "data", "snapshots", day + ".json"), "w"), ensure_ascii=False, indent=0)
+    append_history(offers, day)
 
 
 def append_history(offers, day):
