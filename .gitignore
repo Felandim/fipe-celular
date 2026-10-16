@@ -1,0 +1,4 @@
+public/
+data/snapshots/
+data/collect.log
+__pycache__/
