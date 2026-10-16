@@ -23,6 +23,8 @@ class TestCollector(unittest.TestCase):
         self.assertEqual(c.normalize_model("Samsung Galaxy S23 FE 128GB"), ("Galaxy S23 FE", "128GB"))
         self.assertEqual(c.normalize_model("iPhone 15 Pro Max 1TB"), ("iPhone 15 Pro Max", "1TB"))
         self.assertEqual(c.normalize_model("Capa sem armazenamento"), (None, None))
+        self.assertEqual(c.normalize_model("Samsung Galaxy S21 FE 8GB RAM 256GB"), ("Galaxy S21 FE", "256GB"))
+        self.assertEqual(c.normalize_model("Samsung Galaxy S23 512 GB com 8 GB RAM"), ("Galaxy S23", "512GB"))
 
     def test_condition(self):
         self.assertEqual(c.condition_of("Azul Muito Bom"), "Muito Bom")
@@ -50,6 +52,16 @@ class TestCollector(unittest.TestCase):
 
     def test_sitemap_urls(self):
         self.assertEqual(c.sitemap_urls("<urlset><url><loc>https://a/p</loc></url></urlset>"), ["https://a/p"])
+
+    def test_current_offers_age_and_dedup(self):
+        o = {"slug": "a", "condition": "Bom", "name": "x", "price": 1000.0}
+        pages = {"u1": {"date": "2026-10-16", "offers": [o]}, "u2": {"date": "2026-10-16", "offers": [o]},
+                 "u3": {"date": "2026-10-01", "offers": [dict(o, price=9.0)]}}
+        self.assertEqual(c.current_offers(pages, "2026-10-16"), [o])
+
+    def test_arg(self):
+        self.assertEqual(c.arg(["--limit", "5"], "--limit", 0), 5)
+        self.assertEqual(c.arg([], "--budget-seconds", 1500), 1500)
 
 
 if __name__ == "__main__":

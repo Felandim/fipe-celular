@@ -12,6 +12,7 @@ UA = CFG["user_agent"]
 PHONE_RE = re.compile(r"^/(apple-|samsung-|usado-|motorola-)?(iphone|galaxy|moto|xiaomi|redmi|poco)")
 BAD_RE = re.compile(r"pelicula|capa|cabo|carregador|kit|estojo|protetor|conjunto|fone|suporte|case|adaptador|bateria|watch|ipad|tablet|-tab-|macbook|airpods|buds|caneta|pulseira|garantia|seguro|smart-tv|tv-|galaxy-fit")
 CONDITIONS = [("muito bom", "Muito Bom"), ("excelente", "Excelente"), ("outlet", "Outlet"), ("bom", "Bom"), ("lacrado", "Novo"), ("novo", "Novo")]
+POPULAR_RE = re.compile(r"iphone-1[1-7]|galaxy-(s2[1-6]|a[0-9]{2})")
 STORAGE_RE = re.compile(r"(\d+)\s*(gb|tb)\b", re.I)
 SMALL = {"pro": "Pro", "max": "Max", "plus": "Plus", "ultra": "Ultra", "fe": "FE", "mini": "mini", "iphone": "iPhone", "se": "SE", "xr": "XR", "xs": "XS", "x": "X"}
 DROP = {"apple", "samsung", "usado", "seminovo", "smartphone", "celular", "5g", "4g"}
@@ -54,12 +55,14 @@ def condition_of(name):
 
 def normalize_model(text):
     """'Samsung Galaxy S23 128 GB Verde - Bom' -> ('Galaxy S23', '128GB')."""
-    m = STORAGE_RE.search(text or "")
+    ms = [m for m in STORAGE_RE.finditer(text or "") if m.group(2).lower() == "tb" or int(m.group(1)) >= 16]
+    m = ms[0] if ms else None  # ignora RAM (4/6/8/12 GB)
     if not m:
         return None, None
     storage = f"{int(m.group(1))}{m.group(2).upper()}"
     before = text[: m.start()]
     before = re.sub(r"\(.*?\)", " ", before)
+    before = re.sub(r"\b\d+\s*gb(\s*(de\s*)?ram)?\b|\bram\b|\bcom\b", " ", before, flags=re.I)
     toks = [t for t in re.split(r"[\s\-_/]+", before.lower()) if t and t not in DROP]
     if not toks:
         return None, None
@@ -124,38 +127,76 @@ def parse_product_html(html, url=""):
     return offers
 
 
+def arg(argv, name, default):
+    return type(default)(argv[argv.index(name) + 1]) if name in argv else default
+
+
 def main(argv):
-    limit = int(argv[argv.index("--limit") + 1]) if "--limit" in argv else None
+    """Modo incremental: cada execução processa um lote rotativo, com limite de tempo.
+    Páginas sem oferta ficam 7 dias sem revisita; páginas com oferta são revisitadas toda noite."""
+    budget = arg(argv, "--budget-seconds", 1500)
+    limit = arg(argv, "--limit", 0)
     delay = float(CFG.get("delay_seconds", 1.0))
-    rp = urllib.robotparser.RobotFileParser()
-    rp.parse((fetch(BASE + "/robots.txt") or "").splitlines())
-    index = fetch(BASE + "/sitemap.xml")
-    urls = []
-    for sm in sitemap_urls(index):
-        if "/product-" in sm:
-            urls += [u for u in sitemap_urls(fetch(sm)) if is_phone_url(u)]
-            time.sleep(delay)
-    urls = sorted(set(u for u in urls if rp.can_fetch(UA, u)))
-    # páginas-grupo (modelo+armazenamento) primeiro
-    urls.sort(key=lambda u: (not re.search(r"\d(gb|-gb)/p$", u), u))
-    if limit:
-        urls = urls[:limit]
-    print(f"{len(urls)} URLs de celular permitidas", file=sys.stderr)
-    offers, seen = [], set()
-    t0 = time.time()
     today = dt.datetime.now().strftime("%Y-%m-%d")
-    for i, u in enumerate(urls):
-        for o in parse_product_html(fetch(u), u):
+    state_path = os.path.join(ROOT, "data", "state.json")
+    state = json.load(open(state_path)) if os.path.exists(state_path) else {"pages": {}, "urls": [], "urls_date": ""}
+    if state.get("urls_date") != today or not state.get("urls"):
+        rp = urllib.robotparser.RobotFileParser()
+        rp.parse((fetch(BASE + "/robots.txt") or "").splitlines())
+        urls = []
+        for sm in sitemap_urls(fetch(BASE + "/sitemap.xml")):
+            if "/product-" in sm:
+                urls += [u for u in sitemap_urls(fetch(sm)) if is_phone_url(u)]
+                time.sleep(delay)
+        if urls:
+            state["urls"] = sorted(set(u for u in urls if rp.can_fetch(UA, u)))
+            state["urls_date"] = today
+    pages = state["pages"]
+    def due(u):
+        p = pages.get(u)
+        if not p:
+            return (0, u)  # nunca visitada
+        if p["date"] == today:
+            return None
+        age = (dt.date.fromisoformat(today) - dt.date.fromisoformat(p["date"])).days
+        if p["offers"]:
+            return (1, p["date"], u)
+        return (2, p["date"], u) if age >= 7 else None
+    queue = sorted(q for q in (due(u) for u in state["urls"]) if q)
+    queue = [q[-1] for q in queue]
+    # páginas-grupo (modelo+armazenamento) primeiro dentro das nunca visitadas
+    queue.sort(key=lambda u: (u in pages, not POPULAR_RE.search(u), not re.search(r"\d(gb|-gb)/p$", u)))
+    if limit:
+        queue = queue[:limit]
+    print(f"{len(state['urls'])} URLs; {len(queue)} na fila hoje", file=sys.stderr)
+    t0, done = time.time(), 0
+    for u in queue:
+        if time.time() - t0 > budget:
+            break
+        html = fetch(u)
+        pages[u] = {"date": today, "offers": parse_product_html(html, u) if html else []}
+        done += 1
+        if done % 25 == 0:
+            print(f"  {done} páginas, {int(time.time() - t0)}s", file=sys.stderr)
+            json.dump(state, open(state_path, "w"))
+        time.sleep(delay)
+    json.dump(state, open(state_path, "w"))
+    save(current_offers(pages, today), today)
+    left = len(queue) - done
+    print(f"OK {today}: {done} páginas visitadas, {left} ficaram para depois", file=sys.stderr)
+
+
+def current_offers(pages, today, max_age=7):
+    out, seen = [], set()
+    for u, p in pages.items():
+        age = (dt.date.fromisoformat(today) - dt.date.fromisoformat(p["date"])).days
+        if age > max_age:
+            continue
+        for o in p["offers"]:
             k = (o["slug"], o["condition"], o["name"], o["price"])
             if k not in seen:
-                seen.add(k); offers.append(o)
-        if i % 25 == 0:
-            print(f"  {i}/{len(urls)} páginas, {len(offers)} ofertas, {int(time.time() - t0)}s", file=sys.stderr)
-        time.sleep(delay)
-        if i and i % 200 == 0:
-            save(offers, today, partial=True)  # checkpoint: o gerador já pode usar
-    save(offers, today)
-    print(f"OK {today}: {len(offers)} ofertas em estoque", file=sys.stderr)
+                seen.add(k); out.append(o)
+    return out
 
 
 def save(offers, day, partial=False):
