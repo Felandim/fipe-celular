@@ -87,13 +87,23 @@ a{color:#06c}header a{color:inherit;text-decoration:none;font-weight:700}table{b
 .chart{width:100%;height:auto;background:#fafafa}.chart text{font-size:12px;fill:#555}#q{width:100%;padding:10px;font-size:1rem;box-sizing:border-box}ul.list{columns:2;padding-left:18px}@media(max-width:600px){ul.list{columns:1}}"""
 
 
+BEACON = ""  # Cloudflare Web Analytics; preenchido em build() se config.json tiver cf_beacon_token
+
+
+def beacon_html(token):
+    if not token:
+        return ""
+    return ("<script defer src=\"https://static.cloudflareinsights.com/beacon.min.js\" "
+            f"data-cf-beacon='{{\"token\": \"{token}\"}}'></script>")
+
+
 def page(title, desc, canonical, body, jsonld=None):
     ld = f'<script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>' if jsonld else ""
     return f"""<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(title)}</title><meta name="description" content="{html.escape(desc)}"><link rel="canonical" href="{canonical}">
 <style>{CSS}</style>{ld}</head><body><header><a href="/">FIPE do Celular</a> · <span class="muted">preço de celular usado, atualizado todo dia</span></header><main>{body}</main>
 <footer class="muted"><hr><p>Divulgação: alguns links são de afiliado (Amazon, Mercado Livre). Se você comprar por eles, podemos receber uma comissão, sem custo extra para você.</p>
-<p>Fonte dos preços: anúncios públicos de recondicionados da Trocafone, coletados automaticamente. Não temos vínculo com a loja. Não é a tabela FIPE oficial: a FIPE só publica preços de veículos.</p></footer></body></html>"""
+<p>Fonte dos preços: anúncios públicos de recondicionados da Trocafone, coletados automaticamente. Não temos vínculo com a loja. Não é a tabela FIPE oficial: a FIPE só publica preços de veículos.</p></footer>{BEACON}</body></html>"""
 
 
 def model_page(e, hist, date, cfg):
@@ -138,7 +148,9 @@ def home(groups, date, cfg):
 
 
 def build(out=None):
+    global BEACON
     cfg = load_cfg()
+    BEACON = beacon_html(cfg.get("cf_beacon_token", ""))
     out = out or os.path.join(ROOT, "public")
     snap = latest_snapshot()
     groups = {k: v for k, v in group(snap["offers"]).items() if len(v["prices"]) >= cfg.get("min_offers_for_page", 1)}

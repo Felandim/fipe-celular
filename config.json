@@ -1,7 +1,6 @@
 {
   "site_name": "FIPE do Celular",
-  "base_url": "https://smooth-kayak-v3q2.here.now",
-  "herenow_slug": "smooth-kayak-v3q2",
+  "base_url": "https://fipe-do-celular.pages.dev",
   "AMAZON_TAG": "felipelandas-20",
   "ML_AFFILIATE_ID": "NLLMSY-281S",
   "indexnow_key": "7d2d4522ff2002b0478ff2fb3b4b7a91",
@@ -10,5 +9,8 @@
   "min_offers_for_page": 1,
   "ml_matt_word": "lafe1562447",
   "ml_matt_tool": "17865852",
-  "_ml_note": "matt_word/matt_tool extraidos do link curto do Felipe https://meli.la/2S7ydhz (redireciona p/ /social/lafe1562447?matt_word=lafe1562447&matt_tool=17865852). NLLMSY-281S fica registrado como ID; nao aparece na URL."
+  "_ml_note": "matt_word/matt_tool extraidos do link curto do Felipe https://meli.la/2S7ydhz (redireciona p/ /social/lafe1562447?matt_word=lafe1562447&matt_tool=17865852). NLLMSY-281S fica registrado como ID; nao aparece na URL.",
+  "cf_pages_project": "fipe-do-celular",
+  "cf_beacon_token": "",
+  "old_herenow_slug": "smooth-kayak-v3q2"
 }
