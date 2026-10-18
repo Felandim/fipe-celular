@@ -2,7 +2,7 @@ import json, os, re, shutil, sys, tempfile, unittest
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import generate as g
 
-CFG = {"site_name": "FIPE do Celular", "base_url": "https://x.here.now", "AMAZON_TAG": "felipelandas-20", "ML_AFFILIATE_ID": "NLLMSY-281S", "ml_matt_word": "lafe1562447", "ml_matt_tool": "17865852"}
+CFG = {"site_name": "FIPE do Celular", "base_url": "https://x.pages.dev", "AMAZON_TAG": "felipelandas-20", "ML_AFFILIATE_ID": "NLLMSY-281S", "ml_matt_word": "lafe1562447", "ml_matt_tool": "17865852"}
 OFFERS = [
     {"model": "iPhone 13", "storage": "128GB", "slug": "iphone-13-128gb", "condition": "Bom", "price": 2189.0},
     {"model": "iPhone 13", "storage": "128GB", "slug": "iphone-13-128gb", "condition": "Excelente", "price": 2449.0},
@@ -21,7 +21,7 @@ class TestGenerate(unittest.TestCase):
 
     def test_title_canonical(self):
         self.assertIn("<title>iPhone 13 128GB usado: quanto vale hoje (tabela atualizada)</title>", self.html)
-        self.assertIn('<link rel="canonical" href="https://x.here.now/iphone-13-128gb/">', self.html)
+        self.assertIn('<link rel="canonical" href="https://x.pages.dev/iphone-13-128gb/">', self.html)
         self.assertIn('lang="pt-BR"', self.html)
 
     def test_disclaimer_and_date(self):
