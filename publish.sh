@@ -10,4 +10,4 @@ source /workspace/bin/cf-env.sh
 (cd /workspace/.cf-work && wrangler pages deploy /workspace/fipe-celular/public --project-name="$PROJECT" --branch=main --commit-dirty=true)
 sleep 5
 curl -fsS -o /dev/null "$BASE/$KEY.txt"   # chave do IndexNow no ar antes de avisar
-python3 indexnow.py
+if [[ "${SKIP_INDEXNOW:-0}" == 1 ]]; then echo "IndexNow pulado (SKIP_INDEXNOW=1)"; else python3 indexnow.py; fi
